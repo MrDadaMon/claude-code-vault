@@ -80,7 +80,7 @@ Each session entry in `daily/YYYY-MM-DD.md` follows this schema:
 ```
 ## Session N — HH:MM AM/PM
 **Project:** [slugified project name]
-**Agent:** [second-brain | legion-research-agent]
+**Agent:** [claude-researcher | legion-research-agent]
 **What went wrong:** [specific error or mistake; "none" if nothing]
 **Root cause:** [why it failed; "n/a" if nothing]
 **What worked:** [what succeeded]
